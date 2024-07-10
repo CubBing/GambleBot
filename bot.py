@@ -93,4 +93,4 @@ async def deal_river(ctx):
     poker_game.deal_river()
     await ctx.send(f'River: {poker_game.get_community_cards()}')
 
-bot.run('MTI0MTYxMzExMTMxMjc3NzIxNg.GjaSiV.ZVixFDvnhVETnfowHzbRPbTyuE0DyLjcnd9d8Q')
+bot.run('add bot token here')
